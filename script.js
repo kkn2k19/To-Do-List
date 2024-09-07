@@ -3,13 +3,10 @@ document.addEventListener('DOMContentLoaded', function() {
     const taskInput = document.getElementById('task-input');
     const taskList = document.getElementById('task-list');
 
-    // Load tasks from local storage
     loadTasks();
 
-    // Add task event
     taskForm.addEventListener('submit', addTask);
 
-    // Remove or complete task event
     taskList.addEventListener('click', modifyTask);
 
     function addTask(e) {
