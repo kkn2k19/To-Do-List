@@ -2,6 +2,12 @@
 
 This is a simple to-do list web application created using HTML, CSS, and JavaScript. It allows users to easily create, save, and organize their daily tasks. This app simplifies task management and provides a convenient way to track and prioritize tasks.
 
+## Try Now
+
+You can try the live version of the To-Do List app [here](https://kkn2k19.github.io/To-Do-List/).
+
+Or explore the code on GitHub by visiting the repository [here](https://github.com/kkn2k19/To-Do-List/tree/main).
+
 ## Features
 
 - Add new tasks
@@ -19,12 +25,12 @@ This is a simple to-do list web application created using HTML, CSS, and JavaScr
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/chandan0P/LearnFusion_Project1_TO-DO-LIST.git
+    git clone https://github.com/kkn2k19/To-Do-List.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd LearnFusion_Project1_TO-DO-LIST
+    cd To-Do-List
     ```
 
 3. Open `index.html` in your web browser to view and use the application.
